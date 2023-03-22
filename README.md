@@ -53,7 +53,7 @@
 
 <!-- LIVE DEMO -->
 ## :rocket: Live Demo <a name="live-demo"></a>
-- [Live Demo Link](https://hussenyesufalli.github.io/Hello-Microverse-Repeat/)
+- [Live Demo Link](https://hussenyesufalli.github.io/Hello-Microverse-main/)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- GETTING STARTED -->
 ## :computer: Getting Started <a name="getting-started"></a>
@@ -95,7 +95,7 @@ To run tests, run the following command:
 You can deploy this project using:
 GitHub Pages
 ```sh
- https://hussenyesufalli.github.io/Hello-Microverse-Repeat/
+ https://hussenyesufalli.github.io/Hello-Microverse-main/
 ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
