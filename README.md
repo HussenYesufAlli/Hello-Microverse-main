@@ -118,5 +118,5 @@ GitHub Pages
 
 <!-- LICENSE -->
 ## :memo: License <a name="license"></a>
-This project is [MIT](https://github.com/HussenYesufAlli/Hello-Microverse-Repeat/blob/welcome-microverse-page/License.md) licensed.
+This project is [MIT](https://github.com/HussenYesufAlli/Hello-Microverse-main/blob/Hello-Microverse-branch/LICENSE.md) licensed.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
