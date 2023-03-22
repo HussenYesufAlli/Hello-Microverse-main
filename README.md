@@ -71,7 +71,7 @@ Clone this repository to your desired folder:
 Use git clone command or download ZIP folder
 ```sh
   cd folder Name 
-  git@github.com:HussenYesufAlli/Hello-Microverse-Repeat.git
+  git@github.com:HussenYesufAlli/Hello-Microverse-main.git
 ```
 ### Install
 Install this project with:
