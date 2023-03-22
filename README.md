@@ -20,6 +20,9 @@
   - [Deployment](#triangular_flag_on_post-deployment)
 - [:busts_in_silhouette: Authors](#authors)
 - [:telescope: Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
 - [:memo: License](#license)
 
 # :book: [Hello-Microverse] <a name="about-project"></a>
@@ -115,7 +118,31 @@ GitHub Pages
 - [ ] **[Body-section]**
 - [ ] **[Footer Section]**
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- CONTRIBUTING -->
 
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to come in touch with the author and arrange a meeting and make your contributions truly valuable.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+As this is one of the author's first initiatives, please be gracious and show your support by GitHub: [@HussenYesufAlli](https://github.com/HussenYesufAlli) or contributing to this project. All of your efforts are greatly appreciated and welcomed!
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I have been spent many hours on this project First microverse project . As a result, I'd like to thank my entire family for their support throughout this long journey, as well as the microverse team and my code partners.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- LICENSE -->
 ## :memo: License <a name="license"></a>
 This project is [MIT](https://github.com/HussenYesufAlli/Hello-Microverse-main/blob/Hello-Microverse-branch/LICENSE.md) licensed.
